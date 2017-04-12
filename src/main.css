@@ -1,0 +1,14 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+.header{
+  font-family: "Helvetica nue", "Times New roman", serif;
+  text-align: center;
+  width: 500px;
+  margin: 100px auto 50px auto;
+  padding: 50px;
+  border: black solid;
+
+}
