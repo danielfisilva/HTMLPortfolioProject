@@ -3,12 +3,30 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
   border: 0;
   margin: 0;
 }
+body {
+  background-image: url(gray_back.jpg);
+  background-repeat: repeat;
+}
 .header{
   font-family: "Helvetica nue", "Times New roman", serif;
   text-align: center;
   width: 500px;
   margin: 0 auto 50px auto;
   padding: 50px;
-  border: black solid;
-
+  border: 20px navy solid;
+  background: #2836a0;
+}
+.tagline{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.tagline h3{
+  margin-top: 10px;
+}
+.skills{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.contact{
+  text-align: center;
 }
